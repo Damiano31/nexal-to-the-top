@@ -15,7 +15,6 @@ const IndexPage = () => {
         src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
       />
     </Layout>
-
   )
 }
 // Step 3: Export your component
